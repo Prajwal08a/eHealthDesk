@@ -33,8 +33,8 @@ This is a web-based system for managing doctor appointments. It allows patients 
     
 | Admin Dashboard | Doctor Dashboard | Patient Dashboard |
 | -------| -------| -------|
-| Email: `admin@ehealthdesk.com` | Email: `doctor@ehealthdesk.com` |   Email: `patient@ehealthdesk.com` | 
-| Password: `123` |  Password: `123` |  Password: `123` |
+| Email: `admin@edesk.com` | Email: `doctor@edesk.com` |   Email: `patient@edesk.com` | Email: `test2@gmial.com` |
+| Password: `123` |  Password: `123` |  Password: `123` | Password: `123`
 
 
 -----------------------------------------------
