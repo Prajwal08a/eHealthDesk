@@ -31,10 +31,10 @@ This is a web-based system for managing doctor appointments. It allows patients 
   - Edit account settings    
 
     
-| Admin Dashboard | Doctor Dashboard | Patient Dashboard |
-| -------| -------| -------|
+| Admin Dashboard | Doctor Dashboard | Patient Dashboard | Patient2 Dashboard |
+| -------| -------| -------|  -------|
 | Email: `admin@edesk.com` | Email: `doctor@edesk.com` |   Email: `patient@edesk.com` | Email: `test2@gmial.com` |
-| Password: `123` |  Password: `123` |  Password: `123` | Password: `123`
+| Password: `123` |  Password: `123` |  Password: `123` | Password: `123` |
 
 
 -----------------------------------------------
